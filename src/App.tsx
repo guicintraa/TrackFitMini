@@ -1,9 +1,10 @@
+import { Exercise } from "./componets/ExerciseList"
 function App() {
   
 
   return (
     <>
-      
+      <Exercise/> 
     </>
   )
 }
